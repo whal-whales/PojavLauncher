@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="control_button_color">#FFFF00</color>
-    <color name="control_button_pressed_color">#FFFF00</color>
-    <color name="minebutton_color">#FFFF00</color>
-    <color name="background_app">#FFFF00</color>
-    <color name="divider">#FFFF00</color>
-    <color name="background_overlay">#FFFF00</color>
-    <color name="background_status_bar">#FFFF00</color>
-    <color name="background_bottom_bar">#FFFF00</color>
-    <color name="primary_text">#FFFF00</color>
-    <color name="secondary_text">#FFFF00</color>
+    <color name="control_button_color">#1BD96B</color>
+    <color name="control_button_pressed_color">#112921</color>
+    <color name="minebutton_color">#1BD96B</color>
+    <color name="background_app">#0F1219</color>
+    <color name="divider">#0D0D1A</color>
+    <color name="background_overlay">#0E0E17</color>
+    <color name="background_status_bar">#0E0E17</color>
+    <color name="background_bottom_bar">#0D0D1A</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#B2B2B2</color>
 </resources>
