@@ -7,7 +7,7 @@
     <color name="divider">#0D0D1A</color>
     <color name="background_overlay">#0E0E17</color>
     <color name="background_status_bar">#0E0E17</color>
-    <color name="background_bottom_bar">##151517</color>
+    <color name="background_bottom_bar">#151517</color>
     <color name="primary_text">#FFFFFF</color>
     <color name="secondary_text">#A5B3C7</color>
 </resources>
