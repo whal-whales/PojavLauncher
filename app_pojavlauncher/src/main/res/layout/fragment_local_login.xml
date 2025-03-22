@@ -22,12 +22,13 @@
 
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/login_online_username_hint"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Hello, User!"
+    android:fontFamily="@font/custom_font"
 
-        app:layout_constraintBottom_toTopOf="@+id/login_edit_email"
-        app:layout_constraintStart_toStartOf="@+id/login_edit_email" />
+    app:layout_constraintBottom_toTopOf="@+id/login_edit_email"
+    app:layout_constraintStart_toStartOf="@+id/login_edit_email" />
 
 
     <com.kdt.mcgui.MineEditText
