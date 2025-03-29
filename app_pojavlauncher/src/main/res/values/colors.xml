@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="control_button_color">#1BD96B</color> <!-- Green Buttons -->
-    <color name="control_button_pressed_color">#0F2215</color> <!-- Darker Green when pressed -->
-    <color name="minebutton_color">#1BD96B</color>
 
-    <color name="background_app">#1C1C1C</color> <!-- Neutral Dark Gray -->
-    <color name="divider">#2A2A2A</color> <!-- Slightly lighter gray -->
-    <color name="background_overlay">#1E1E1E</color> <!-- Dark gray overlay -->
-    <color name="background_status_bar">#1E1E1E</color> 
-    <color name="background_bottom_bar">#191919</color> 
+    <color name="control_button_color">#D91B60</color>
+    <color name="control_button_pressed_color">#1B0F22</color>
+    <color name="minebutton_color">#D91B60</color>
 
-    <color name="primary_text">#FFFFFF</color> <!-- White for readability -->
-    <color name="secondary_text">#B2B2B2</color> <!-- Lighter gray for contrast -->
-</resources> <!-- Count how many times "Gray" was mentioned -->
+    <color name="background_app">#E3E3E3</color>
+    <color name="divider">#D3D3D3</color>
+    <color name="background_overlay">#C1C1C1</color>
+    <color name="background_status_bar">#C1C1C1</color>
+    <color name="background_bottom_bar">#E0E0E0</color>
+
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#4D4D4D</color>
+
+</resources>
